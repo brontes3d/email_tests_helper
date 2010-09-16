@@ -1,0 +1,8 @@
+stub for testing action_mailer emails with test/unit
+
+Include this file in from your tests and use it's methods to assert contents of email that should have been sent.
+
+
+Copyright (c) 2008-2010 3M. All rights reserved. Released under the MIT license.
+
+Authored by Jacob Burkhart.
